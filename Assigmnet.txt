@@ -1,0 +1,11 @@
+1. Assignment: practice same, 2 - Windows machine creating 2 subnets in each VPC
+
+
+mobaxterm
+
+
+VPCA-Pu.S-A-EC2
+
+VPCA-Pr.S-B-EC2
+
+VPCB-Pr.S-B-EC2
